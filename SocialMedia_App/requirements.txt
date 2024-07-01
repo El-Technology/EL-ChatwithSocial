@@ -1,0 +1,14 @@
+llama-index
+python-dotenv
+llama-parse
+llama-index-vector-stores-chroma
+llama-index-llms-groq
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
+# Successfully installed llama-index-llms-groq-0.1.4 llama-index-llms-openai-like-0.1.3 safetensors-0.4.3 transformers-4.41.2
+sentence-transformers
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
+peft
+pyodbc
+streamlit
